@@ -13,7 +13,6 @@ A Microsoft Dynamics 365 Business Central extension for reading values from a JS
 
 ## Requirements
 
-- Microsoft Dynamics 365 Business Central 2026 release wave 1 or a compatible environment using application version `28.0.0.0`.
 - AL development environment with the matching Business Central symbols.
 - Network access from the Business Central service tier to the target API.
 - An API endpoint that returns a JSON object containing an array of JSON objects.
