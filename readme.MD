@@ -27,8 +27,6 @@ A Microsoft Dynamics 365 Business Central extension for reading values from a JS
 5. Build and publish the extension to your Business Central environment.
 6. Search for **Custom API Setup** in Business Central.
 
-The packaged extension is also available as `Default Publisher_CustomAPI_1.0.0.0.app`.
-
 ## Configuration and usage
 
 1. Open **Custom API Setup** and create a new record.
@@ -78,8 +76,6 @@ src/
   codeunit/   API request, JSON parsing, mapping, and value extraction
   page/       Setup, JSON node, mapping, and result pages
   table/      Setup, parsed JSON, mapping, and result tables
-Translations/ XLF translation file
-app.json     AL extension metadata
 ```
 
 ## License
