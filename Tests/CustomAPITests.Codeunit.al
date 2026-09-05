@@ -1,7 +1,7 @@
 namespace CustomAPI.Tests;
 using CustomAPI;
 
-codeunit 50110 "CustomAPI Tests"
+codeunit 50240 "CustomAPI Tests"
 {
     Subtype = Test;
 
