@@ -13,18 +13,13 @@ A Microsoft Dynamics 365 Business Central extension for reading values from a JS
 
 ## Requirements
 
-- AL development environment with the matching Business Central symbols.
-- Network access from the Business Central service tier to the target API.
 - An API endpoint that returns a JSON object containing an array of JSON objects.
 
 ## Installation
 
 1. Clone or download this repository.
-2. Open the project folder in Visual Studio Code with the AL Language extension installed.
-3. Configure the Business Central server and launch configuration for your target environment.
-4. Download symbols if required.
-5. Build and publish the extension to your Business Central environment.
-6. Search for **Custom API Setup** in Business Central.
+2. Build and publish the extension to your Business Central environment.
+3. Search for **Custom API Setup** in Business Central.
 
 ## Configuration and usage
 
